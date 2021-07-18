@@ -1,0 +1,70 @@
+body
+{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Monserrat',Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1
+{
+    color : rgb(44,141,136);
+    margin: 0px;
+    font-family: 'Aclonica',Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.myImg
+{
+    border-radius: 100%;
+}
+
+.Top_Container
+{
+    background-color: rgb(220,241,241);
+    /* margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px; */
+    /******** Alternative ********/
+    margin: 0px;
+    padding-top: 100px;
+}
+
+.Middle_Container
+{
+    /* margin-left: 260px;
+    border: solid 20px; */
+}
+
+.Bottom_Container
+{
+    /* margin-left: 500px;
+    border: solid 10px; */
+}
+
+.top_cloud
+{
+    position: absolute;
+    right : 130px;
+    top : 40px;
+    /* display: block; */
+}
+
+.bottom_cloud
+{
+    position: absolute; 
+    left : 150px;
+    top : 160px;   
+}
+
+.coding
+{
+    /* border-radius: 50%; */
+    width: 200px;
+    height: 200px;
+}
+
+.geopolitics
+{
+    width: 200px;
+    height: 200px;
+}
