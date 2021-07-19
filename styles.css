@@ -151,3 +151,13 @@ div
 {
     background-color:rgb(220,241,241) ;
 }
+
+.btn:hover
+{
+    background-color: rgb(35, 190, 35);
+}
+
+a:hover
+{
+    color : white;
+}
